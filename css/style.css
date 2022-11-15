@@ -1,0 +1,36 @@
+* {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+h4 {
+    padding: 5px;
+    margin: 5px auto;
+}
+
+ul {
+    padding: 5px;
+}
+
+ul li {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px auto;
+}
+
+ul li a {
+    color: #000;
+}
+
+ul li a:hover {
+    color: #555;
+}
+
